@@ -1,3 +1,6 @@
+//comision 2//
+//Agüero Emiliano//
+
 PImage miPaisaje;
 
 void setup() {
